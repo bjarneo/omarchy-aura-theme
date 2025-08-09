@@ -6,6 +6,10 @@ This is the Aura theme for [Omarchy.org](https://omarchy.org), providing a visua
   <img src="theme.png" alt="Aura Theme Preview">
 </p>
 
+<p align="center">
+  <img src="neofetch.png" alt="Neofetch Preview">
+</p>
+
 ## Installation
 
 To install this theme, simply use the `omarchy-theme-install` command:
