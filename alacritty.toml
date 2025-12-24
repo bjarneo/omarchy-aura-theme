@@ -23,7 +23,7 @@ yellow = '#CBC3E3'
 
 [colors.bright]
 # Bright colors used for emphasis
-black = '#F8F8F2'
+black = '#44475A'
 red = '#FFAFCC'
 green = '#BDE0FE'
 yellow = '#CBC3E3'

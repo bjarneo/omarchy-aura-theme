@@ -19,7 +19,7 @@ input {
 }
 
 input:selected {
-    background-color: @gray1;
+    background-color: alpha(@gray3, 0.3);
     color: @fg_bright;
 }
 
@@ -31,7 +31,7 @@ input:selected {
 }
 
 #entry:selected {
-    background-color: @gray1;
+    background-color: alpha(@gray3, 0.3);
     color: @fg_bright;
 }
 
